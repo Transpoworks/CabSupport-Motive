@@ -1,2 +1,2 @@
-# CabSupport Releases
-Repository for storing Transpoworks CabSupport tablet app releases
+# CabSupport-Motive Releases
+Repository for storing Transpoworks CabSupport-Motive tablet app releases
